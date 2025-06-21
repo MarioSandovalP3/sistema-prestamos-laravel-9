@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Aplicación web completa para la gestión de préstamos, pagos y socios, desarrollada con Laravel 9. Incluye sistema de roles, reportes y seguimiento de transacciones.
+Aplicación web completa para la gestión de préstamos, pagos y socios, desarrollada con Laravel 9.
 
 ## 🚀 Características principales
 
