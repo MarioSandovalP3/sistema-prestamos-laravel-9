@@ -1,0 +1,2 @@
+[08-Jul-2023 11:05:29 America/Caracas] PHP Fatal error:  gd-webp encoding failed in /home/hogarlin/linkve.net/ve/vendor/intervention/image/src/Intervention/Image/Gd/Encoder.php on line 77
+[08-Jul-2023 11:05:37 America/Caracas] PHP Fatal error:  gd-webp encoding failed in /home/hogarlin/linkve.net/ve/vendor/intervention/image/src/Intervention/Image/Gd/Encoder.php on line 77

@@ -1,0 +1,12 @@
+# Dependencias
+/node_modules
+/vendor
+/public/storage
+/public/hot
+/storage/*.key
+
+# Cache de rutas, vistas y configuración
+bootstrap/cache/*.php
+
+# Entorno
+.env

@@ -1,0 +1,48 @@
+.title-company{
+	width: 100%;
+	text-align: center;
+}
+.text-header{
+	text-align: left;
+	color: #3b3c36;
+
+}
+.table-tr{
+	background-color: #3b3c36;
+	color: #FFFFFF;
+	text-align: center;
+}
+.data-tr{
+	text-align: center;
+	color: #3b3c36;
+}
+
+.total-tr{
+
+	text-align: center;
+	color: #3b3c36;
+}
+hr { 
+	border: none; height: 1px;
+	color: #424242; 
+	background-color: #424242;
+}
+
+.footer{
+border-top: 1px solid black;
+  position: fixed; 
+                bottom: -30px; 
+                left: 0px; 
+                right: 0px;
+                height: 50px; 
+                text-align: center;
+                line-height: 35px;
+                color: #424242
+}
+
+
+
+.pageFooter:after {
+   
+    content: counter(page)
+}
