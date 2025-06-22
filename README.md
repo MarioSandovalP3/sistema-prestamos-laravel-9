@@ -68,7 +68,7 @@ DB_PASSWORD=
 php artisan migrate --seed
 ```
 
-## Configuración Storage Link
+## 📂 Configuración Storage Link
 
 El sistema necesita un enlace simbólico para acceder a archivos almacenados (como imágenes de socios y comprobantes de pago). Esto se configura automáticamente con:
 
@@ -77,6 +77,21 @@ php artisan storage:link
 ```
 
 Esto creará un enlace de `public/storage` → `storage/app/public`
+
+## ▶️ Ejecutar servidor local
+
+Para iniciar el servidor local de desarrollo y acceder a la aplicación en tu navegador, ejecuta:
+
+```bash
+php artisan serve
+```
+Por defecto, esto levantará el sistema en:
+http://127.0.0.1:8000
+
+Puedes cambiar el puerto si lo deseas con:
+```bash
+php artisan serve --port=8080
+```
 
 ## Credenciales de prueba
 
